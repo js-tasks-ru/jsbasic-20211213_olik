@@ -8,7 +8,7 @@ function factorial(n) {
   
   while (i < n) {
   
-   factorial = factorial * (n - i);
+   factorial = factorial * i;
    i++;
   }
 
