@@ -8,5 +8,5 @@
        li.innerHTML = str;
        ul.append(li);
     }
-    
+   return ul; 
 }
